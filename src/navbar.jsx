@@ -36,7 +36,7 @@ function Navbar() {
 
            <li>
             <Link
-              to="/Our Services"
+              to="/Ourservice"
               className="hover:text-yellow-400 transition duration-300"
             >
               Our Services
