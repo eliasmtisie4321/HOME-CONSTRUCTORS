@@ -1,4 +1,17 @@
 import logo from "./HC2.png"
 import team from "./team.jpg"
+import display from "./dis1.jpg"
+import exp from "./exp.jfif"
+import skill from "./skill.webp"
+import pool from "./pool.jpg"
+import ele from "./ele.jpg"
+import cel1 from "./cel1.jpg"
+import h1 from "./h1.jpg"
+import h2 from "./h2.jpg"
+import paint from "./painting.jfif"
+import build from "./building.jpg"
+import tilling from "./tiling.jpg"
+import ceiling from "./ceiling,.jfif"
+import pav from "./paving.jpeg"
 
-export{logo , team}
+export{logo , team , display ,exp , skill ,pool , ele ,cel1,h1 ,h2,paint,build,tilling,ceiling,pav}
