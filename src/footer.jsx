@@ -62,6 +62,7 @@ function Footer() {
         <p>
           © {new Date().getFullYear()} HOME CONSTRUCTORS.
           All Rights Reserved.
+          <a href="https://github.com/eliasmtisie4321">GITHUB_PROFILE</a>
         </p>
 
       </div>
