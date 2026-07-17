@@ -1,3 +1,5 @@
+import { team1 } from "./images";
+
 function About() {
   return (
     <div className="bg-gray-100">
@@ -26,7 +28,7 @@ function About() {
           {/* Image */}
           <div>
             <img
-              src="/images/about.jpg"
+              src={team1}
               alt="Construction Team"
               className="rounded-xl shadow-2xl w-full h-[500px] object-cover"
             />

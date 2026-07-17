@@ -13,5 +13,6 @@ import build from "./building.jpg"
 import tilling from "./tiling.jpg"
 import ceiling from "./ceiling,.jfif"
 import pav from "./paving.jpeg"
+import team1 from "./team1.jfif"
 
-export{logo , team , display ,exp , skill ,pool , ele ,cel1,h1 ,h2,paint,build,tilling,ceiling,pav}
+export{logo , team , display ,exp , skill ,pool , ele ,cel1,h1 ,h2,paint,build,tilling,ceiling,pav,team1}
