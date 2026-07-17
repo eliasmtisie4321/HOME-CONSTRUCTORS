@@ -63,7 +63,7 @@ function Footer() {
           © {new Date().getFullYear()} HOME CONSTRUCTORS.
           All Rights Reserved. 
           <br />
-          <a href="https://github.com/eliasmtisie4321">Built by</a>
+          <a href="https://github.com/eliasmtisie4321" target="blank">Built by</a>
         </p>
 
       </div>

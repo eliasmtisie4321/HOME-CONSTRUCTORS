@@ -33,7 +33,7 @@ function Home() {
           <div className="md:w-1/2 mt-10 md:mt-0">
             {/* Put construction image here */}
             <img
-              src="/images/hero.jpg"
+              src="https://sites.google.com/u/0/sitesv-images-rt/ACHe0d3IX5wOoYCAUuZcbrM8z5mt5bL-f41ExWGFlQX9WiGARwFIaJ-QVvlpB2tpV1Ue2NN3hh_YyGKacLX_AjHWxTqm1QlSPEwPDDVjD_ws89gJx5vMwdDjoteK2Z-KrEhrNhtys5obCBOx4hyy7D_AyVMxQr6lfRWmkmBpBi1TigbcKZn7KpeCpel--PEez1Eni9YvHFxfwkiJmb-jco525k69lsd8MLap87gmXCX6nVI=w1280"
               alt="Construction workers"
               className="rounded-xl shadow-lg"
             />
