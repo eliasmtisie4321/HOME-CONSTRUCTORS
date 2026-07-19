@@ -61,34 +61,6 @@ The Contact page provides a way for customers to get in touch with the company a
 
 ---
 
-## Project Structure
-
-```
-company-project-1/
-
-├── BRIEF.md
-├── README.md
-
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── Footer.jsx
-│   │   └── Loader.jsx
-│   │
-│   ├── Home.jsx
-│   ├── About.jsx
-│   ├── Ourservice.jsx
-│   ├── Contact.jsx
-│   ├── App.jsx
-│   └── main.jsx
-
-├── public/
-
-└── outreach-proof/
-    └── screenshot.png
-```
-
----
 
 ## Installation and Setup
 
