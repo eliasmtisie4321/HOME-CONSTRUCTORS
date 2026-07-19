@@ -117,18 +117,6 @@ https://home-constructors.vercel.app/
 
 ---
 
-## Project Presentation
-
-I created a Loom recording explaining the project, the development process, and the technologies used.
-
-Loom Presentation:
-
-https://www.loom.com/share/32937619268e413e8a2020f84a5e3a50
-
----
-
-
-
 ## Author
 
 Created by **Elias**
