@@ -13,7 +13,7 @@ The purpose of the outreach was to showcase the improvements I made and give the
 The original Home Constructors website can be viewed here:
 
 **Original Website:**  
-PASTE_OLD_WEBSITE_LINK_HERE
+https://sites.google.com/view/home-constructors/home?authuser=0
 
 ---
 
@@ -24,14 +24,7 @@ The redesigned website is available here:
 **Live Website:**  
 https://home-constructors.vercel.app/
 
----
 
-## Project Presentation
-
-I also created a Loom video explaining the redesign, the technologies used, and the development process.
-
-**Loom Presentation:**  
-https://www.loom.com/share/32937619268e413e8a2020f84a5e3a50
 
 ---
 
